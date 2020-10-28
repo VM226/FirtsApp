@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirtsApp</string>
+    <string name="saludo_bs">Welcome</string>
+    <string name="boton_b">Enter</string>
+
+</resources>
